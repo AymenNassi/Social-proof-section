@@ -6,7 +6,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ![](./design/screenshot-1.png)
 
-![](<./design/screenshot-2(iPhone%20X).png>)
+![](./design/screenshot-2.png)
 
 ### Links
 
